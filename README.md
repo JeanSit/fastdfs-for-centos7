@@ -4,3 +4,5 @@
 # git for test
 
 # another person modifyed this document
+
+#在另外一个人在该分支变更push后，拉取最新的内容，然后再修改。
